@@ -1,0 +1,6 @@
+# 以下为私有/开发文件，不推送到公开仓库
+编辑后台.html
+data/_heilsun_fetch.py
+data/_heilsun_videos.json
+# 简历不公开托管（2026-09-13 撤下）；本地副本在 D:\视频素材\Claude\backups\
+*.pdf
